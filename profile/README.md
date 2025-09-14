@@ -4,8 +4,7 @@ Seja bem-vindo(a) a nossa organização!!! 😄✨
 
 Pascal gosta de conhecer novas pessoas, aé 🤦‍♂️ pascal é o nosso mascote da sala, dá um oi pra ele 👋
 
-<img width="300" height="300" alt="pascal o mascote" src="https://github.com/user-attachments/assets/4fd7c8b9-9dc9-451d-ab0e-59c7aa9f1c3a" />
-
+<img width="300" height="300" alt="Pascal o mascote" src="https://github.com/user-attachments/assets/75b21522-10b6-47cc-8d19-b8fa4aa49b3b" />
 
 ## 📋 Convenções
 
